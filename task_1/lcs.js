@@ -1,0 +1,2 @@
+console.log((a=>{if(a.length){g=a.reduce((c,a)=>c.length<=a.length?c:a),l=g.length;for(let b=l;0<=b;b--)for(let c,d=0;d<=l-b;d++)
+if(c=g.substring(d,d+b),a.every(a=>~a.indexOf(c)))return c;return""}return""})(process.argv.slice(2)));
