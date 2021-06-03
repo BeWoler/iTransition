@@ -1,0 +1,16 @@
+C:\Users\bewol\Desktop\iTransition\task_3\rockPaperScissors\bin\Debug\net5.0\rockPaperScissors.exe
+C:\Users\bewol\Desktop\iTransition\task_3\rockPaperScissors\bin\Debug\net5.0\rockPaperScissors.deps.json
+C:\Users\bewol\Desktop\iTransition\task_3\rockPaperScissors\bin\Debug\net5.0\rockPaperScissors.runtimeconfig.json
+C:\Users\bewol\Desktop\iTransition\task_3\rockPaperScissors\bin\Debug\net5.0\rockPaperScissors.runtimeconfig.dev.json
+C:\Users\bewol\Desktop\iTransition\task_3\rockPaperScissors\bin\Debug\net5.0\rockPaperScissors.dll
+C:\Users\bewol\Desktop\iTransition\task_3\rockPaperScissors\bin\Debug\net5.0\ref\rockPaperScissors.dll
+C:\Users\bewol\Desktop\iTransition\task_3\rockPaperScissors\bin\Debug\net5.0\rockPaperScissors.pdb
+C:\Users\bewol\Desktop\iTransition\task_3\rockPaperScissors\obj\Debug\net5.0\rockPaperScissors.csproj.AssemblyReference.cache
+C:\Users\bewol\Desktop\iTransition\task_3\rockPaperScissors\obj\Debug\net5.0\rockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bewol\Desktop\iTransition\task_3\rockPaperScissors\obj\Debug\net5.0\rockPaperScissors.AssemblyInfoInputs.cache
+C:\Users\bewol\Desktop\iTransition\task_3\rockPaperScissors\obj\Debug\net5.0\rockPaperScissors.AssemblyInfo.cs
+C:\Users\bewol\Desktop\iTransition\task_3\rockPaperScissors\obj\Debug\net5.0\rockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\bewol\Desktop\iTransition\task_3\rockPaperScissors\obj\Debug\net5.0\rockPaperScissors.dll
+C:\Users\bewol\Desktop\iTransition\task_3\rockPaperScissors\obj\Debug\net5.0\ref\rockPaperScissors.dll
+C:\Users\bewol\Desktop\iTransition\task_3\rockPaperScissors\obj\Debug\net5.0\rockPaperScissors.pdb
+C:\Users\bewol\Desktop\iTransition\task_3\rockPaperScissors\obj\Debug\net5.0\rockPaperScissors.genruntimeconfig.cache
