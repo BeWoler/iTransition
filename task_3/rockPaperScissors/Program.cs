@@ -61,12 +61,10 @@ namespace rockPaperScissors
         Console.WriteLine($"Your move: {yourMove}");
         Console.WriteLine($"Computer move: {computerMove}");
 
-        int turns = uniqueArgs.Length;
-        int winnerHalf = turns / 2;
+        int winnerHalf = uniqueArgs.Length / 2;
 
         string tmp;
         int nextInd = 0;
-
         for (int i = 0; i < uniqueArgs.Length - 1; ++i)
         {
           nextInd += Convert.ToInt32(uniqueArgs.Length - Convert.ToInt32(choise) + 1);
@@ -76,27 +74,15 @@ namespace rockPaperScissors
           uniqueArgs[nextInd] = uniqueArgs[0];
           uniqueArgs[0] = Convert.ToString(tmp);
         }
-        Console.WriteLine(string.Join(" ", uniqueArgs));
-        for (var i = 1; i <= winnerHalf; i++)
-        {
-          Console.WriteLine(i);
-          if (Convert.ToInt32(value) == i & Convert.ToInt32(choise) != Convert.ToInt32(value)) //TODO
-          {
+          if(winnerHalf >= Array.IndexOf(uniqueArgs, computerMove) & Convert.ToInt32(value) != Convert.ToInt32(choise)) {
             Console.WriteLine("You win!");
-            break;
           }
-          else if (Convert.ToInt32(choise) == Convert.ToInt32(value))
-          {
+          else if(Convert.ToInt32(value) == Convert.ToInt32(choise)) {
             Console.WriteLine("Tie!");
-            break;
           }
-          else
-          {
+          else {
             Console.WriteLine("You lose!");
-            break;
           }
-        }
-
         Console.WriteLine($"HMAC key: {BufferToString(keyBuffer)}");
       }
       else
